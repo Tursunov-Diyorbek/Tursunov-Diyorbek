@@ -10,6 +10,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tursunov-Diyorbek&theme=onedark)](https://github.com/Tursunov-Diyorbek/github-profile-trophy)
 
+<br/>
+<br/>
+
 <a href="https://twitter.com/otabek_mahmud0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otabek_mahmud0v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20057750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20057750" height="30" width="40" /></a>
 <a href="https://fb.com/makhmudov.otabek.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="makhmudov.otabek.official" height="30" width="40" /></a>
