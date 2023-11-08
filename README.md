@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tursunov Diyorbek</h1>
 
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Front End Developer from Uzbekistan</h3>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
 <br/>
