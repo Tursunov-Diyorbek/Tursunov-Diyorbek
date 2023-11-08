@@ -1,5 +1,7 @@
-<h1 align="center">Tursunov Diyorbek</h1>
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=console.log("Hi 👋, I'm Tursunov Diyorbek"))
+<h1 align="center">Hi 👋, I'm Tursunov Diyorbek</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=print("hello+world"))
+
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
